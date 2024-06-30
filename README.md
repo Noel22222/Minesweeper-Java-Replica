@@ -4,6 +4,7 @@ Run the Java program and use the terminal to communicate with the program
 Follow the instructions printed in the terminal
 
 --- Program Structure ---
+
 Structure of the main program goes as follows:
 - Ask for user for input regarding dimensions of the board
 - Initialize board with said dimensions, with a ratio of the spaces being landmines
